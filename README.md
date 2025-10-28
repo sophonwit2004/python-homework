@@ -1,1 +1,3 @@
-# python-homework
+# Pyton programming
+
+## นายโสภณวิชญ์ ปฏิเหตุ รหัสนักศึกษา 6812732139
